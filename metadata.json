@@ -1,0 +1,6 @@
+{
+  "name": "Awami Library",
+  "description": "Offline digital reader and public library catalog for AwamiLibrary.com books, literature, and manuscripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

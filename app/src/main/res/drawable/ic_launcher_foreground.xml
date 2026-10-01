@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Star/Torch of knowledge on top -->
+    <path
+        android:fillColor="#F5C518"
+        android:pathData="M54,26 L56,31 L61,31 L57,34 L59,39 L54,36 L49,39 L51,34 L47,31 L52,31 Z" />
+
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,43 C42,40 32,41 26,45 L26,73 C32,69 42,68 52,71 Z" />
+
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#F4F1DE"
+        android:pathData="M56,43 C66,40 76,41 82,45 L82,73 C76,69 66,68 56,71 Z" />
+
+    <!-- Book Spine & Binding in Golden Accent -->
+    <path
+        android:fillColor="#F5C518"
+        android:pathData="M52.5,43 L55.5,43 L55.5,74 C54.5,73.5 53.5,73.5 52.5,74 Z" />
+
+    <!-- Decorative Text Lines Left Page -->
+    <path
+        android:fillColor="#3D7B65"
+        android:pathData="M31,50 C36,49 43,49 48,51 L48,53 C43,51 36,51 31,52 Z" />
+    <path
+        android:fillColor="#3D7B65"
+        android:pathData="M31,56 C36,55 43,55 48,57 L48,59 C43,57 36,57 31,58 Z" />
+    <path
+        android:fillColor="#3D7B65"
+        android:pathData="M31,62 C36,61 43,61 48,63 L48,65 C43,63 36,63 31,64 Z" />
+
+    <!-- Decorative Text Lines Right Page -->
+    <path
+        android:fillColor="#3D7B65"
+        android:pathData="M60,51 C65,49 72,49 77,50 L77,52 C72,51 65,51 60,53 Z" />
+    <path
+        android:fillColor="#3D7B65"
+        android:pathData="M60,57 C65,55 72,55 77,56 L77,58 C72,57 65,57 60,59 Z" />
+    <path
+        android:fillColor="#3D7B65"
+        android:pathData="M60,63 C65,61 72,61 77,62 L77,64 C72,63 65,63 60,65 Z" />
+
+    <!-- Golden Ribbon Bookmark hanging from center -->
+    <path
+        android:fillColor="#E0A917"
+        android:pathData="M53,71 L55,71 L55,81 L54,79 L53,81 Z" />
+</vector>
